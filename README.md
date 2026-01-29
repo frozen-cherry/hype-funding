@@ -31,9 +31,11 @@ Generates `hype_funding_report.html` with:
 - Annualized rates in parentheses
 - Click any row for detailed chart view
 
-## Screenshot
+## Screenshots
 
-![Report Preview](https://via.placeholder.com/800x400?text=Funding+Rate+Report)
+![Report Overview](screenshots/ScreenShot_1.png)
+
+![Detail View](screenshots/ScreenShot_2.png)
 
 ## License
 
